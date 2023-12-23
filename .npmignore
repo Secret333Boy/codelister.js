@@ -1,0 +1,6 @@
+.editorconfig
+.node_modules
+src
+.eslintrc.cjs
+.prettierrc
+tsconfig.json
